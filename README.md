@@ -14,6 +14,9 @@ A repository dedicated for learning Vue 3.
   - Click Event Modifiers
   - Slots
   - Teleport
+- **[Project 2 - Reaction Timer](https://github.com/RyouHikaru/learning-vue-reaction-timer)**
+  - Lifecycle Hooks
+  - Custom Events with Data
  
 *List to be updated*
 
