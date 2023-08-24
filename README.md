@@ -22,6 +22,15 @@ A repository dedicated for learning Vue 3.
   - VModel
   - Key Event
   - Submit Event
+- **[Project 4 - Ninja Jobs](https://github.com/RyouHikaru/learning-vue-ninja-jobs)**
+  - Vue Router
+  - Router Links
+  - Router Parameters
+  - Dynamic Links
+  - Redirect & 404's
+  - Programmatic Navigation
+  - Folder Structure
+  - Fetching Data (in JSON Server)
  
 *List to be updated*
 
