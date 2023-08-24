@@ -17,6 +17,11 @@ A repository dedicated for learning Vue 3.
 - **[Project 2 - Reaction Timer](https://github.com/RyouHikaru/learning-vue-reaction-timer)**
   - Lifecycle Hooks
   - Custom Events with Data
+- **[Project 3 - Web Form](https://github.com/RyouHikaru/learning-vue-web-form)**
+  - Forms and Input
+  - VModel
+  - Key Event
+  - Submit Event
  
 *List to be updated*
 
