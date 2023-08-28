@@ -31,7 +31,15 @@ A repository dedicated for learning Vue 3.
   - Programmatic Navigation
   - Folder Structure
   - Fetching Data (in JSON Server)
- 
-*List to be updated*
+- **[Project 5 - Dojo Blogs](https://github.com/RyouHikaru/learning-vue-dojo-blogs)**
+  - Composition API
+  - Template Refs in Composition API
+  - Using Refs for Reactivity
+  - Refs vs. Reactive
+  - watch & watchEffect
+  - Using props in setup
+  - Lifecycle Hooks in setup
+  - Fetching Data in setup
+  - Reusable Composable Functions
 
 From The Net Ninja's series, [Vue JS 3 Tutorial for Beginners](https://www.youtube.com/watch?v=YrxBCBibVo0&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1&pp=iAQB).
